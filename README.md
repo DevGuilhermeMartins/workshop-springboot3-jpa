@@ -1,4 +1,4 @@
-# Web Services
+# Store WebSite API
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DevGuilhermeMartins/workshop-springboot3-jpa/blob/main/LICENSE) 
 
 # About Project
