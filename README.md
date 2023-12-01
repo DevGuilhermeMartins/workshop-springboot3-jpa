@@ -3,7 +3,7 @@
 
 # About Project
 
-Web Services is a Back-End application
+Store WebSite API is a Back-End application
 
 The application consists of annotating user requests by request and request item, also, presenting the product of the request and its category.
 
